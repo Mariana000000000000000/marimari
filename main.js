@@ -6,12 +6,13 @@ function soma(num1, num2) {
 console.log(soma(3, 4));
 
 function areaQuadrado(lado) {
-   return lado**2;
+    return lado ** 2;
 }
- console.log(areaQuadrado(4));
+console.log(areaQuadrado(4));
 
-let media = function (num1,num2,num3) { 
-return num1+num2+num3/3; }
+let media = function (num1, num2, num3) {
+    return num1 + num2 + num3 / 3;
+}
 
-console.log ( (4,3,3));
+console.log((1, 1, 1));
 
