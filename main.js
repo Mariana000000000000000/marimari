@@ -17,4 +17,5 @@ let media = function (num1, num2, num3) {
 console.log((1, 1, 1));
 
 parseInt(prompt('?'))
+document.write (1)
 
