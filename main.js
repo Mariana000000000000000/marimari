@@ -10,8 +10,8 @@ function areaQuadrado(lado) {
 }
  console.log(areaQuadrado(4));
 
-let media = function calculetmedia(num1,num2,num3) { 
+let media = function calculetemedia(num1,num2,num3) { 
 return num1+num2+num3/3; }
 
-console.log (calculetmedia (4,3,2));
+console.log (calculetemedia (4,3,2));
 
